@@ -52,4 +52,4 @@ For security purpose, please make sure to set appropriate access controls for Mo
 The application can be deployed on any Java Servlet container, or docker containers.
 
 ### Support
-For any issues or queries, please raise a ticket on the GitHub repository or email me on austin5astro@gmail.com.
+For any issues or queries, please raise a ticket on the GitHub repository or email me on elviskipchumba60@gmail.com
